@@ -1,3 +1,4 @@
 [submodule "ReactRedux/basicreactredux"]
 	path = ReactRedux/basicreactredux
-	url = ./ReactRedux/basicreactredux
+	url = https://github.com/samples-repo/reactjs-samples
+	branch = master
