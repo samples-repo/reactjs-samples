@@ -111,6 +111,7 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+.vscode/
 
 # Visual Studio Trace Files
 *.e2e
@@ -276,6 +277,7 @@ FakesAssemblies/
 # Node.js Tools for Visual Studio
 .ntvs_analysis.dat
 node_modules/
+package-lock.json
 
 # Visual Studio 6 build log
 *.plg
